@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oldpluto
 - 👀 I’m interested in ... Blockchain, JavaScript, Solidity.
 - 🌱 I’m currently learning ... JavaScript and Software Engineering.
-- 💞️ I’m looking to collaborate on ... Blockchain projects And Nft marketPlace projects
+- 💞️ I’m looking to collaborate on ... Blockchain projects And Nft marketPlace projects And MOBILE APP DEV PROJECTS 
 - 📫 How to reach me ... On Instagram @oldpluto1
 
 <!---
